@@ -1,10 +1,9 @@
 # 开源影音配置地址：
 
-https://cd028kyyy.github.io/box/1022tv.json
 
 https://cd028kyyy.github.io/box/liu673cn.json
 
-
+https://cd028kyyy.github.io/box/1022tv.json
 
 
 
