@@ -1,11 +1,22 @@
 //old:https://download.kstore.space/download/2883/1022tv.json
+//本资源网路收集整理自用
 
    {
 	"spider": "https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://gg.gg/cctvgg"]}]}],
-	"sites":[
-{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
+	"sites":[{"key":"更多","name":"点此设置主页","type":1,"api":"","searchable":0,"quickSearch":0},
+{"key": "csp_XYQ_lu1","name": "️TV直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://download.kstore.space/download/2883/tvtv.txt", "jar": "https://download.kstore.space/download/2883/tvtv.jar;md5; E80798750ECA57470F29D1942BCE39BB"},
+{
+            "key" : "jar",
+            "name" : "⬇⬇[JAR]接口⬇⬇",
+            "type" : 3,
+            "api" : "",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+{"key":"dr_豆瓣","name":"[JS]豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"csp_77","name":"[JAR]酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"[JAR]360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"[JAR]苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -899,10 +910,10 @@
         "filterable": 1,
         "ext": "https://download.kstore.space/download/2883/PY/py_%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96.py"
     }
-	],
+],
 
 "parses": [
-	   {
+		{
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
