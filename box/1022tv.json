@@ -1,11 +1,10 @@
 //old:https://download.kstore.space/download/2883/1022tv.json
 //本资源网路收集整理自用
-
    {
 	"spider": "https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://gg.gg/cctvgg"]}]}],
-	"sites":[{"key":"更多","name":"点此设置主页","type":1,"api":"csp_Lezhu","searchable":0,"quickSearch":0,"filterable":1},
+	"sites":[{"key":"dr_豆瓣","name":"[JS]豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key": "csp_XYQ_lu1","name": "️TV直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://download.kstore.space/download/2883/tvtv.txt", "jar": "https://download.kstore.space/download/2883/tvtv.jar;md5; E80798750ECA57470F29D1942BCE39BB"},
 {
             "key" : "jar",
@@ -16,7 +15,6 @@
             "quickSearch" : 1,
             "filterable" : 1
         },
-{"key":"dr_豆瓣","name":"[JS]豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"csp_77","name":"[JAR]酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"[JAR]360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"[JAR]苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -520,6 +518,55 @@
             "type" : 3,
             "api" : "https://download.kstore.space/download/2883/PY/js/drpy.min.js",
             "ext" : "https://download.kstore.space/download/2883/PY/js/555%E5%BD%B1%E8%A7%86.js"
+        },
+            {
+            "key" : "drpy_js_玩偶姐姐",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/%E7%8E%A9%E5%81%B6%E5%A7%90%E5%A7%90.js"
+        },
+            {
+            "key" : "drpy_js_朱古力",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/%E6%9C%B1%E5%8F%A4%E5%8A%9B.js"
+        },
+            {
+            "key" : "drpy_js_吸瓜",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/%E5%90%B8%E7%93%9C.js"
+        },
+            {
+            "key" : "drpy_js_养端",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/%E5%85%BB%E7%AB%AF.js"
+        },
+            {
+            "key" : "drpy_js_banan",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/banan.js"
+        },
+            {
+            "key" : "drpy_js_Missav",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/Missav.js"
+        },
+            {
+            "key" : "drpy_js_18av",
+            "name" : "[JS]-删除",
+            "type" : 3,
+            "api" : "https://download.kstore.space/download/288300/PY/js/drpy.min.js",
+            "ext" : "https://download.kstore.space/download/288300/PY/js/18av.js"
         },
 {
             "key" : "py",
