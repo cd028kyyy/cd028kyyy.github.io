@@ -330,7 +330,7 @@
 ],
 //解X设置
 "parses":[
-  {
+   {
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
@@ -383,21 +383,14 @@
 {"name":"jsonplayer","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"zhanlangbu","type": 0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"777","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"26db","type": 0,"url":"https://vip.26db.cn/g/?url="},
-{"name":"aidouer","type": 0,"url":"https://jx.aidouer.net/?url="},
-{"name":"administratorw","type": 0,"url":"https://www.administratorw.com/video.php?url="},
-{"name":"nxflv","type": 0,"url":"https://www.nxflv.com/?url="},
-{"name":"jiexila","type": 0,"url":"https://www.jiexila.com/?url="},
 {"name": "1","type":0,"url":"https://jxdp.codermart.net/?url="},
 {"name": "9kjx","type":0,"url":"https://9kjx.com/?url="},
 {"name": "okjx","type":0,"url":"https://okjx.cc/?url="},
-{"name": "8090","type":0,"url":"https://8090.la/8090/?url="},
-{"name": "m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name": "1717yun","type":0,"url":"https://www.1717yun.com/api/?url="},
-{"name": "miaoys","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"左岸","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name": "xxphp","type":0,"url":"http://vip.xxphp.cn/player.html?url="},
-{"name":"夜幕","url":"https://www.yemu.xyz/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"夜幕","url":"https://www.yemu.xyz/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"26db","type": 0,"url":"https://vip.26db.cn/g/?url="},
+{"name":"nxflv","type": 0,"url":"https://www.nxflv.com/?url="}
 ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
