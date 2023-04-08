@@ -4,7 +4,7 @@
 
 
 
-https://cd028kyyy.github.io/box/1022tv.json
+https://cd028kyyy.github.io/box/1022tv.m3u8
 
 
 
